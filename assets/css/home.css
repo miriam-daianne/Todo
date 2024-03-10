@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Single+Day&display=swap');
+
+body{
+    font-family: "Josefin Sans";
+    background-color: #B5C0D0;
+    display: flex;
+    font-size: 16px;
+}
+
+.box{
+    background-color: #F5E8DD;
+    border: solid 0.5px #605f5f;
+    box-shadow: 4px 4px 10px #605f5f;
+    margin: 50px;
+    padding:30px; 
+    border-radius: 0 20px 0 20px;
+}
+
+body, .box{
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 35px;
+    font-weight: 700;
+    text-shadow: 1px 1px 2px #605f5fb3;
+    color: #76453B;
+}
+
+.input-container{
+    margin: 20px;
+}
+
+input{
+    background-color: #D6C7AE;
+    border-radius: 5px;
+    border: solid 0.75px #605f5f;
+    padding: 5px;
+    box-shadow: 2px 2px 10px #828181;
+}
+
+input::placeholder{
+    color:#76453B;
+    font-style: italic;
+    font-size: 10px;
+}
+
+.input-container, input::placeholder{
+    text-align: center;
+}
+
+button{
+    background-color: #705a56;
+    border-radius: 5px;
+    border: solid 0.75px #605f5f;
+    box-shadow: 2px 2px 10px #828181;
+    color: #e0e0e0;
+    padding: 5px;
+}
+
+
+ul li{
+    cursor: pointer;
+    position: relative;
+    padding: 5px 10px 5px 10px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 15px;
+    list-style-type:none;
+
+}
+
+
+ul li:hover{
+    background: #E2C799;
+}
+
+
+ul li button{
+    all: unset;
+    cursor: pointer;
+    margin-left: 5%;
+   
+}
+
+input[type="checkbox"]{
+    all: unset;
+    border-radius: 2px;
+    height: 10px;
+    width: 10px;
+    box-shadow: none;
+    border: solid #5f857b;
+    margin-right: 5px;
+}
+
+
+input:checked{
+  all: unset;
+  content: "";
+  width: 0.5px;
+  height: 2px;
+  border: solid #89B9AD;
+  border-width: 0 3px 3px 0;
+  position:relative;
+  top: 2px;
+  left: 7px;
+  transform: rotate(45deg);
+  margin-right: 5%;
+  padding: 0 2px 15px 2px;
+  
+}
+
+img{
+    justify-content: baseline;
+}
+
