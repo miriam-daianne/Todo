@@ -1,4 +1,5 @@
 <h1>TODO LIST</h1>
+![Badge Concluído](https://img.shields.io/badge/Concluded%20-%20Status?style=for-the-badge&label=Status&labelColor=%23EEEDEB&color=%2386C8BC)
 
 ![Imagem do Layout do projeto](https://github.com/miriam-daianne/Todo/blob/main/imgs%20do%20projeto/layout%20inicial.png)
 
