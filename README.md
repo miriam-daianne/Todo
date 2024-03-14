@@ -3,7 +3,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/Concluded%20-%20Status?style=for-the-badge&label=Status&labelColor=%23EEEDEB&color=%2386C8BC"/>
 </p>
 
-![Imagem do Layout do projeto](https://github.com/miriam-daianne/Todo/blob/main/imgs%20do%20projeto/layout%20inicial.png);
+![Imagem do Layout do projeto](https://github.com/miriam-daianne/Todo/blob/main/imgs%20do%20projeto/layout%20inicial.png)
 
 <h2>APRESENTAÇÃO</h2>
 O projeto consiste em uma lista de tarefas simples, onde os itens podem ser adicionados ao escrever no campo de entrada e pressionar o botão 'OK' ou ao pressionar a tecla 'Enter'. 
